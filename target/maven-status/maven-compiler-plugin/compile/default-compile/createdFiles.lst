@@ -1,0 +1,6 @@
+com\rabigol\pbook\controllers\RestApiController.class
+com\rabigol\pbook\PbookCommandLineRunner.class
+com\rabigol\pbook\orm\jpa\RangesRepository.class
+com\rabigol\pbook\orm\IRange.class
+com\rabigol\pbook\PbookApplication.class
+com\rabigol\pbook\orm\PhoneNumbersRange.class
